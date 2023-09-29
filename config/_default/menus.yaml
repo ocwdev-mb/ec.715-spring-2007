@@ -1,0 +1,60 @@
+leftnav:
+- identifier: 17041665-5cc5-d7fb-1379-5923ba9dc696
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0692c299-5ef0-fa1b-3eb7-0c1972d05322
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: eab3e808-fb7b-450e-f133-e1ac6dae6f05
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: de700e56-4d06-a284-06d5-067ba74d2f65
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: f30134a6-94a0-de04-36a4-d3f145229b1a
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 50
+- identifier: 4920ed81-908c-1194-97a3-6b08f6b53d17
+  name: EVCO
+  pageRef: /pages/projects/evco
+  parent: f30134a6-94a0-de04-36a4-d3f145229b1a
+  weight: 60
+- identifier: 3e899b4b-8b1a-6919-9be1-8e676180842b
+  name: LearnTB
+  pageRef: /pages/projects/learn_tb
+  parent: f30134a6-94a0-de04-36a4-d3f145229b1a
+  weight: 70
+- identifier: 2de9803c-7a24-b0a8-69ee-8ff0229d397c
+  name: New DOTS
+  pageRef: /pages/projects/new_dots
+  parent: f30134a6-94a0-de04-36a4-d3f145229b1a
+  weight: 80
+- identifier: b2b6e259-29da-2e9b-6224-35db601d3007
+  name: Biogas Nicaragua
+  pageRef: /pages/projects/biogas_nicaragua
+  parent: f30134a6-94a0-de04-36a4-d3f145229b1a
+  weight: 90
+- identifier: 793b484b-8bc5-dded-a126-f2c72a16fa83
+  name: Vac-Cast
+  pageRef: /pages/projects/vac_cast
+  parent: f30134a6-94a0-de04-36a4-d3f145229b1a
+  weight: 100
+- identifier: f3aeda76-5d8f-6f88-dee2-1ae10d02b9ee
+  name: Sustainable Shelters
+  pageRef: /pages/projects/sustainable_shelters
+  parent: f30134a6-94a0-de04-36a4-d3f145229b1a
+  weight: 110
+- identifier: 5c7181fb-d65a-af99-3b82-8352454c8be2
+  name: DataHealth Pakistan
+  pageRef: /pages/projects/datahealth_pak
+  parent: f30134a6-94a0-de04-36a4-d3f145229b1a
+  weight: 120
+- identifier: 4d3d4041-b098-2104-bfa5-81d938a0c007
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 130
